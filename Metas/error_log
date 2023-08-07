@@ -1,0 +1,162 @@
+[27-Jul-2023 05:13:52 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[27-Jul-2023 05:13:52 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:13:52 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:13:52 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Pessoal', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[27-Jul-2023 05:19:05 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[27-Jul-2023 05:19:05 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:05 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:05 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Pessoal', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[27-Jul-2023 05:19:12 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[27-Jul-2023 05:19:12 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:12 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:12 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Pessoal', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[27-Jul-2023 05:19:13 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[27-Jul-2023 05:19:13 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:13 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:13 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Pessoal', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[27-Jul-2023 05:19:14 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[27-Jul-2023 05:19:14 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:14 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:14 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Pessoal', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[27-Jul-2023 05:19:14 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[27-Jul-2023 05:19:14 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:14 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:14 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Pessoal', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[27-Jul-2023 05:19:15 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[27-Jul-2023 05:19:15 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:15 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:15 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Pessoal', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[27-Jul-2023 05:19:15 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[27-Jul-2023 05:19:15 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:15 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:15 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Pessoal', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[27-Jul-2023 05:19:15 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[27-Jul-2023 05:19:15 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:15 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:15 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Pessoal', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[27-Jul-2023 05:19:18 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[27-Jul-2023 05:19:18 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:18 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 05:19:18 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Acad\xC3\xAAmica', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[27-Jul-2023 06:09:57 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[27-Jul-2023 06:09:57 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 06:09:57 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 06:09:57 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Pessoal', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[27-Jul-2023 09:56:10 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[27-Jul-2023 09:56:10 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 09:56:10 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[27-Jul-2023 09:56:10 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Pessoal', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[29-Jul-2023 14:19:14 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[29-Jul-2023 14:19:14 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[29-Jul-2023 14:19:14 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[29-Jul-2023 14:19:14 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Acad\xC3\xAAmica', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[29-Jul-2023 14:19:32 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/readAll.php on line 16
+[29-Jul-2023 14:19:32 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/readAll.php on line 17
+[29-Jul-2023 14:19:32 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/readAll.php on line 17
+[29-Jul-2023 14:19:32 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:49
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(49): PDOStatement->execute()
+#1 /home2/swifte53/public_html/Metas/readAll.php(20): Crud->pegaConcluidas(NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 49
+[31-Jul-2023 07:52:01 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/readAll.php on line 16
+[31-Jul-2023 07:52:01 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/readAll.php on line 17
+[31-Jul-2023 07:52:01 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/readAll.php on line 17
+[31-Jul-2023 07:52:01 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:49
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(49): PDOStatement->execute()
+#1 /home2/swifte53/public_html/Metas/readAll.php(20): Crud->pegaConcluidas(NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 49
+[31-Jul-2023 07:53:55 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[31-Jul-2023 07:53:55 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[31-Jul-2023 07:53:55 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[31-Jul-2023 07:53:55 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Pessoal', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[31-Jul-2023 07:54:01 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[31-Jul-2023 07:54:01 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[31-Jul-2023 07:54:01 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[31-Jul-2023 07:54:01 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Vida Acad\xC3\xAAmica', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41
+[31-Jul-2023 07:54:04 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/swifte53/public_html/Metas/read.php on line 15
+[31-Jul-2023 07:54:04 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/swifte53/public_html/Metas/read.php on line 42
+[31-Jul-2023 07:54:04 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/swifte53/public_html/Metas/read.php on line 42
+[31-Jul-2023 07:54:04 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/swifte53/public_html/Metas/Crud.php:41
+Stack trace:
+#0 /home2/swifte53/public_html/Metas/Crud.php(41): PDOStatement->execute(Array)
+#1 /home2/swifte53/public_html/Metas/read.php(46): Crud->readInfo('Autocuidado', NULL)
+#2 {main}
+  thrown in /home2/swifte53/public_html/Metas/Crud.php on line 41

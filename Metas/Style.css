@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&family=Open+Sans:wght@300;400;500;600&display=swap");
+form {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 80%;
+
+  max-width: 600px;
+  margin: auto;
+  padding: 30px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.body1 {
+  font-family: "Inter", sans-serif;
+  background: #2f2e6a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+.body3 {
+  font-family: "Inter", sans-serif;
+  padding: 40px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #2f2e6a;
+  color: white;
+}
+.btn1,
+.btn2,
+.btn3 {
+  background-color: #6f42c1;
+  display: inline-block;
+  width: 100px;
+  padding: 10px;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-right: 20px;
+}
+.btn1:last-child,
+.btn2:last-child,
+.btn3:last-child  {
+  margin-right: 0;
+}
+.btn3{
+  margin-left: 20px;
+}
+.select1,
+.select2,
+.input1 {
+  background-color: #d5b1e6;
+  width: 500px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+.label1 {
+  color: white;
+  display: block;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+a {
+  text-decoration: none;
+}
+.meta {
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 20px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  background-color: #43428a;
+  min-width: 200px;
+  color: white;
+}
+/* iai parcero tobias só nas programações */
+.metas {
+  padding: 20px;
+
+  text-align: center;
+  min-width: 200px;
+  color: white;
+}
+
+.body2 {
+  font-family: "Inter", sans-serif;
+  display: flex;
+  background: #2f2e6a;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 30px;
+}
+a.meta {
+  text-decoration: none;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.meta h2 {
+  font-size: 30px;
+  color: #d5b1e6;
+  margin-bottom: 10px;
+}
+.meta p {
+  font-size: px;
+  color: #d5b1e6;
+}

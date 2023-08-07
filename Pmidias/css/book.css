@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&family=Open+Sans:wght@300;400;500;600&display=swap');
+*{
+  font-family: 'Inter', sans-serif;
+}
+button,h3{
+  background-color: #6f42c1;
+  color: white;
+  border: none;
+  padding: 10px;
+}
+
+.barra{
+  background-color: #D5B1E6;
+  padding: 10px;
+}
+body{
+  background-color: #6f42c1;
+}
