@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&family=Open+Sans:wght@300;400;500;600&display=swap');
+    body {
+      background-color: #2f2e6a;
+      color: #333;
+      font-family: 'Inter', sans-serif;
+    }
+
+    h2 {
+      text-align: center;
+      margin-top: 20px;
+      color: white;
+      font-size: 2vw;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 20px;
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: center;
+      color: #fff;
+    }
+
+    th {
+      background-color: #333;
+    }
+    td{
+      background-color: #303952;
+    }
+
+    .add-button {
+      margin-bottom: 10px;
+      background-color: #6f42c1;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    .add-button:hover {
+      background-color: #555;
+    }
+
+    .remove-button {
+      background-color: #BB3658;
+      color: white;
+      height: 30px;
+      width: 30px;
+      border: none;
+      padding: 5px 10px;
+      font-size: 12px;
+      cursor: pointer;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .remove-button:hover {
+      background-color: #ff3333;
+    }
+    
+    .alter-button {
+      background-color: #2d98da;
+      color: white;
+      height: 30px;
+      width: 30px;
+      border: none;
+      padding: 5px 10px;
+      font-size: 12px;
+      cursor: pointer;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .alter-button:hover {
+      background-color: #45aaf2;
+    }
+
+    input[type="text"] {
+      width: 100%;
+      padding: 6px;
+      border-radius: 6px;
+      font-size: 12px;
+      box-sizing: border-box;
+      color: white;
+      background-color: #60646D;
+      font-family: 'Inter', sans-serif;
+    }
+    
+.botao-salvar{
+  background-color: #3ae374;
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 5px 10px;
+  font-size: 12px;
+  cursor: pointer;
+  font-family: 'Inter', sans-serif;
+}
+.botao-salvar:hover {
+  background-color: #32ff7e;
+}
+    
+input[type="time"] {
+  appearance: none;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #333;
+  color: #f4f4f4;
+  outline: none;
+  transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+input[type="time"]:focus {
+  border-color: #6f42c1;
+  background-color: white;
+  box-shadow: 0 0 5px rgba(111, 66, 193, 0.5);
+}
+
+input[type="time"]::-webkit-calendar-picker-indicator {
+  filter: invert(30%) sepia(76%) saturate(307%) hue-rotate(181deg) brightness(97%) contrast(92%);
+  cursor: pointer;
+}
+
+input[type="time"]::-webkit-inner-spin-button,
+input[type="time"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="time"]:disabled {
+  background-color: #f9f9f9;
+  border-color: #ddd;
+  color: #aaa;
+  cursor: not-allowed;
+}
+
+header > a > button {
+  background-color: #e4de18;
+  color: white;
+  height: 30px;
+  width: 60px;
+  border: none;
+  padding: 5px 10px;
+  font-size: 12px;
+  cursor: pointer;
+  font-family: 'Inter', sans-serif;
+}
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 10px;
+      }
+      table {
+        font-size: 14px;
+      }
+      th, td {
+        padding: 5px;
+      }
+      .add-button, .remove-button {
+        padding: 5px 10px;
+        font-size: 14px;
+      }
+      input[type="text"] {
+        font-size: 14px;
+      }
+    }
